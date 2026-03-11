@@ -127,3 +127,35 @@ Created as part of Image Processing Lab coursework.
 ## Support
 
 For issues or questions, please refer to the source code documentation.
+
+## Screen Recordings
+
+Watch the application in action through the following screen recordings:
+
+### Blur
+
+<video src="Screen%20Recoding/Blur.mp4" controls width="700"></video>
+
+### Canny Edge Detection
+
+<video src="Screen%20Recoding/Canny%20Edge%20Detection.mp4" controls width="700"></video>
+
+### Convolution
+
+<video src="Screen%20Recoding/Convolution.mp4" controls width="700"></video>
+
+### Histogram Matching
+
+<video src="Screen%20Recoding/Histogram%20Matching.mp4" controls width="700"></video>
+
+### K-Mean Cluster
+
+<video src="Screen%20Recoding/K-Mean%20Cluster.mp4" controls width="700"></video>
+
+### Laplacian Edge
+
+<video src="Screen%20Recoding/Laplacian%20Edge.mp4" controls width="700"></video>
+
+### Rotate Image
+
+<video src="Screen%20Recoding/Rotate%20Image.mp4" controls width="700"></video>
