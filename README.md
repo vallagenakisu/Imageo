@@ -138,24 +138,24 @@ Watch the application in action through the following screen recordings:
 
 ### Canny Edge Detection
 
-<video src="Screen%20Recoding/Canny%20Edge%20Detection.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/Canny%20Edge%20Detection.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/d3513a41-368c-40a3-bf3d-0e912b7eedd1)
 
 ### Convolution
 
-<video src="Screen%20Recoding/Convolution.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/Convolution.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/a571fcc3-49a9-4ef8-8f22-0197d6fc96ac)
 
 ### Histogram Matching
 
-<video src="Screen%20Recoding/Histogram%20Matching.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/Histogram%20Matching.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/91b6e989-904e-4df0-8525-b579f3ef6369)
 
 ### K-Mean Cluster
 
-<video src="Screen%20Recoding/K-Mean%20Cluster.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/K-Mean%20Cluster.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/5ae6ef10-7a4a-47c6-b75a-277fa3ec34e6)
 
 ### Laplacian Edge
 
-<video src="Screen%20Recoding/Laplacian%20Edge.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/Laplacian%20Edge.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/46c6d1bb-661d-4e17-b65a-625a229114a0)
 
 ### Rotate Image
 
-<video src="Screen%20Recoding/Rotate%20Image.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/Rotate%20Image.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/5570b2e4-4d70-47e1-9558-b2317d64d8d9)
