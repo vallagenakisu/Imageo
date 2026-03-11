@@ -134,7 +134,7 @@ Watch the application in action through the following screen recordings:
 
 ### Blur
 
-<video src="Screen%20Recoding/Blur.mp4" controls width="700"></video>
+[<video src="Screen%20Recoding/Blur.mp4" controls width="700"></video>](https://github.com/user-attachments/assets/5509e826-80b3-4b58-9f8b-ca93be065e9e)
 
 ### Canny Edge Detection
 
